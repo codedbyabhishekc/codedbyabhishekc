@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Chauhan 👋
 
-Welcome to my **portfolio GitHub account**, showcasing my work in **QA automation, Shift-Left, DevOps, and tooling**.
+Welcome to my **portfolio GitHub account**, showcasing my work in **QA / QE automation, Shift-Left, DevOps, and Tooling**.
 
 With **16+ years of professional experience**, I focus on building **robust, scalable, and automated quality solutions**.
 
@@ -9,26 +9,6 @@ With **16+ years of professional experience**, I focus on building **robust, sca
 ## 🔹 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/abhishekchauhan)
-- [Portfolio Website](https://codedbyabhishekc.com) *(optional)*
-
----
-
-## 🔹 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Automation Framework** | End-to-end test automation framework for web & API testing | Selenium, Python, Jenkins |
-| **Shift-Left Tooling** | Tools to integrate QA earlier in development | Jenkins, GitHub Actions, Python |
-| **DevOps Integration** | CI/CD pipelines with automated testing & monitoring | Docker, Kubernetes, GitHub Actions |
-
----
-
-## 🔹 Skills & Expertise
-
-- **Test Automation:** Selenium, Cypress, API testing, automation frameworks  
-- **Shift-Left Practices:** Early QA integration, CI/CD pipelines  
-- **Tooling & DevOps:** Jenkins, GitHub Actions, Docker, Kubernetes  
-- **Languages:** Python, Bash, Groovy  
 
 ---
 
