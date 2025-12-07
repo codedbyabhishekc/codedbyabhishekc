@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek Chauhan 👋
+# Hi, I'm Abhishek Chauhan 👋 -  [LinkedIn](https://www.linkedin.com/in/abhishekchauhan)
 
 Welcome to my **portfolio GitHub account**, showcasing my work in **QA / QE automation, Shift-Left, DevOps, and Tooling**.
 
@@ -19,15 +19,6 @@ It lets users create, manage, and test mock API endpoints — with options to ma
 
 A comprehensive **Role-Based Access Control (RBAC) system** built with **React**, **Express**, **SQLite**, **JWT**, and **Swagger**. 
 This project demonstrates various testing strategies and best practices in full-stack development.
-
-
----
-
-
-
-#### 🔹 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/abhishekchauhan)
 
 ---
 
